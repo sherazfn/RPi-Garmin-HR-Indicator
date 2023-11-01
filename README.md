@@ -5,3 +5,4 @@ This program is to take Heart Rate Broadcast information from a Garmin Watch and
 
 It's also a small side project to learn more coding. Feel free to suggest better changes and cleaned up code. It'll help me learn more including working with PRs from others.
 
+I'm also trying to use GitHub projects too. Let's see how that goes
