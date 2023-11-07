@@ -7,4 +7,4 @@ It's also a small side project to learn more coding. Feel free to suggest better
 
 I'm also trying to use GitHub projects too. Let's see how that goes
 
-# 2023 11 07 Tring out git changes locally and sending to github
+# 2023 11 07 Trying out git changes locally and sending to github
